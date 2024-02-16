@@ -30,3 +30,7 @@ class BaseClass:
     def selectOptionByText(self, locator, text):
         sel = Select(locator)
         sel.select_by_visible_text(text)
+
+    def selectOptionByTexti(self, locator, text):
+            sel = Select(locator)
+            sel.select_by_visible_text(text)

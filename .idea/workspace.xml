@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc67438a-f4b0-4a5b-98e1-7b4ee9d5c7ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonSelFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonSelFramework.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utilities/BaseClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/BaseClass.py" afterDir="false" />
@@ -36,7 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "develop",
     "last_opened_file_path": "C:/Users/Anshu/GitDemo"
   }
 }]]></component>
@@ -108,8 +107,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.test_e2e" />
       <item itemvalue="Python.excelDemo" />
+      <item itemvalue="Python.test_e2e" />
       <item itemvalue="Python tests.pytest in test_HomePage.py" />
     </list>
     <recent_temporary>
