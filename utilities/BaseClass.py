@@ -30,7 +30,16 @@ class BaseClass:
     def selectOptionByText(self, locator, text):
         sel = Select(locator)
         sel.select_by_visible_text(text)
+<<<<<<< HEAD
 
     def selectOptionByTexti(self, locator, text):
             sel = Select(locator)
             sel.select_by_visible_text(text)
+=======
+        print("Hello made some changes1")
+        print("Hello made some changes2...")
+        print("Hello made some changes3")
+        print("Hello made some changes4...")
+        print("Hello made some changes5")
+        print("Hello made some changes6...")
+>>>>>>> fb8307059e41ddb3a61c6c3e1774dfbbf85127af

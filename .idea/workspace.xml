@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="fc67438a-f4b0-4a5b-98e1-7b4ee9d5c7ab" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="fc67438a-f4b0-4a5b-98e1-7b4ee9d5c7ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> fb8307059e41ddb3a61c6c3e1774dfbbf85127af
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +27,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
+<<<<<<< HEAD
   &quot;associatedIndex&quot;: 6
+=======
+  &quot;associatedIndex&quot;: 5
+>>>>>>> fb8307059e41ddb3a61c6c3e1774dfbbf85127af
 }</component>
   <component name="ProjectId" id="1SqgZ1h8XpgKmQLz023NzHzNc3J" />
   <component name="ProjectViewState">
@@ -31,6 +41,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
+<<<<<<< HEAD
+=======
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+>>>>>>> fb8307059e41ddb3a61c6c3e1774dfbbf85127af
     "git-widget-placeholder": "develop",
     "last_opened_file_path": "C:/Users/Anshu/GitDemo"
   }
