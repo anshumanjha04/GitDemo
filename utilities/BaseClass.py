@@ -32,3 +32,7 @@ class BaseClass:
         sel.select_by_visible_text(text)
         print("Hello made some changes1")
         print("Hello made some changes2...")
+        print("Hello made some changes3")
+        print("Hello made some changes4...")
+        print("Hello made some changes5")
+        print("Hello made some changes6...")
